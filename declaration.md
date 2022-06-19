@@ -29,3 +29,5 @@ Othman Gbadamassi, Chainflow
 Ellie Rennie, Metagov
 
 Joshua Tan, Metagov
+
+Leonoor's Cryptoman
