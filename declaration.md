@@ -33,3 +33,5 @@ Joshua Tan, Metagov
 Leonoor's Cryptoman
 
 Jack Zampolin, Strangelove Ventures
+
+Will Pankiewicz, Binary Holdings
