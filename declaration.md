@@ -31,3 +31,5 @@ Ellie Rennie, Metagov
 Joshua Tan, Metagov
 
 Leonoor's Cryptoman
+
+Will Pankiewicz, Binary Holdings
