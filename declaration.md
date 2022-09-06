@@ -35,3 +35,5 @@ Leonoor's Cryptoman
 Jack Zampolin, Strangelove Ventures
 
 Will Pankiewicz, Binary Holdings
+
+Damien Bonello, Simply Staking
