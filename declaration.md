@@ -38,4 +38,6 @@ Will Pankiewicz, Binary Holdings
 
 Damien Bonello, Simply Staking
 
+Hyung-Kyu Choi, DSRV
+
 Candas Ozgenc, GateOmega
