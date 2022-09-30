@@ -41,3 +41,5 @@ Damien Bonello, Simply Staking
 Hyung-Kyu Choi, DSRV
 
 Candas Ozgenc, GateOmega
+
+Rolf Hoefer, Cultur3 Stake
