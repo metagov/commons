@@ -45,3 +45,5 @@ Candas Ozgenc, GateOmega
 Rolf Hoefer, Cultur3 Stake
 
 Avicenna, Kleomedes
+
+Ioachim Viju, BlockHunters
